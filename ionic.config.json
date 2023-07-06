@@ -1,0 +1,7 @@
+{
+  "name": "cs-vanilla",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

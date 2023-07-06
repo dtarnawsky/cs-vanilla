@@ -1,0 +1,8 @@
+{
+  "appId": "cs.vanilla",
+  "appName": "cs-vanilla",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
